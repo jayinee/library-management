@@ -1,0 +1,24 @@
+﻿
+<h4>List of available BOOKS</h4>
+<hr />
+<div ng-repeat="book in vm.books">
+    <p>book {{$index + 1}}</p>
+    <img ng-src="{{book.image}}" />
+    <hr />
+    <div class="container">
+        
+            <a ui-sref="issuebook({bookId: book.id})">issue</a>
+        </div>
+    
+    <ul>
+        <li>
+            <h4>
+                {{book.name}}
+                <em class="pull-right"> {{book.price | currency}}</em>
+            </h4>
+
+        <li>{{book.description}}</li>
+
+    </ul>
+</div>
+

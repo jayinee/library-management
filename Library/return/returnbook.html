@@ -1,0 +1,16 @@
+﻿<h4>return book</h4>
+<div>
+    <label>Date of return</label>
+    <input type="date" required />
+    <hr />
+   
+    <label>Name of the book</label>
+    <select ng-options="book.id as book.name for book in vm.books"
+            ng-model="vm.bookId"></select>
+  
+        
+    
+    <hr />
+
+  <button>return</button>
+</div>

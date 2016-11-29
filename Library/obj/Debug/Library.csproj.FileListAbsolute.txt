@@ -1,0 +1,48 @@
+D:\jayinee working\Library_ManagementSystem\Library\bin\Library.dll.config
+D:\jayinee working\Library_ManagementSystem\Library\bin\Library.dll
+D:\jayinee working\Library_ManagementSystem\Library\bin\Library.pdb
+D:\jayinee working\Library_ManagementSystem\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+D:\jayinee working\Library_ManagementSystem\Library\obj\Debug\Library.dll
+D:\jayinee working\Library_ManagementSystem\Library\obj\Debug\Library.pdb
+\\SSI-NAS01\Public\Library_ManagementSystem\Library\bin\Library.dll.config
+\\SSI-NAS01\Public\Library_ManagementSystem\Library\bin\Library.dll
+\\SSI-NAS01\Public\Library_ManagementSystem\Library\bin\Library.pdb
+\\SSI-NAS01\Public\Library_ManagementSystem\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+\\SSI-NAS01\Public\Library_ManagementSystem\Library\obj\Debug\Library.dll
+\\SSI-NAS01\Public\Library_ManagementSystem\Library\obj\Debug\Library.pdb
+C:\prj\jrd\Library\bin\Library.dll.config
+C:\prj\jrd\Library\bin\Library.dll
+C:\prj\jrd\Library\bin\Library.pdb
+C:\prj\jrd\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\prj\jrd\Library\obj\Debug\Library.dll
+C:\prj\jrd\Library\obj\Debug\Library.pdb
+D:\Samvida\Samvida's Shared Folder\Libraray Management\Library\bin\Library.dll.config
+D:\Samvida\Samvida's Shared Folder\Libraray Management\Library\bin\Library.dll
+D:\Samvida\Samvida's Shared Folder\Libraray Management\Library\bin\Library.pdb
+D:\Samvida\Samvida's Shared Folder\Libraray Management\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+D:\Samvida\Samvida's Shared Folder\Libraray Management\Library\obj\Debug\Library.dll
+D:\Samvida\Samvida's Shared Folder\Libraray Management\Library\obj\Debug\Library.pdb
+\\SSI-NAS01\Public\Libraray Management\Library\bin\Library.dll.config
+\\SSI-NAS01\Public\Libraray Management\Library\bin\Library.dll
+\\SSI-NAS01\Public\Libraray Management\Library\bin\Library.pdb
+\\SSI-NAS01\Public\Libraray Management\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+\\SSI-NAS01\Public\Libraray Management\Library\obj\Debug\Library.dll
+\\SSI-NAS01\Public\Libraray Management\Library\obj\Debug\Library.pdb
+C:\Users\desja01\Desktop\Libraray Management-with showlist\Library\bin\Library.dll.config
+C:\Users\desja01\Desktop\Libraray Management-with showlist\Library\bin\Library.dll
+C:\Users\desja01\Desktop\Libraray Management-with showlist\Library\bin\Library.pdb
+C:\Users\desja01\Desktop\Libraray Management-with showlist\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\desja01\Desktop\Libraray Management-with showlist\Library\obj\Debug\Library.dll
+C:\Users\desja01\Desktop\Libraray Management-with showlist\Library\obj\Debug\Library.pdb
+D:\jayinee working\Libraray Management-with showlist\Library\bin\Library.dll.config
+D:\jayinee working\Libraray Management-with showlist\Library\bin\Library.dll
+D:\jayinee working\Libraray Management-with showlist\Library\bin\Library.pdb
+D:\jayinee working\Libraray Management-with showlist\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+D:\jayinee working\Libraray Management-with showlist\Library\obj\Debug\Library.dll
+D:\jayinee working\Libraray Management-with showlist\Library\obj\Debug\Library.pdb
+D:\jayinee working\Libraray Management-bigda hua\Library\bin\Library.dll.config
+D:\jayinee working\Libraray Management-bigda hua\Library\bin\Library.dll
+D:\jayinee working\Libraray Management-bigda hua\Library\bin\Library.pdb
+D:\jayinee working\Libraray Management-bigda hua\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+D:\jayinee working\Libraray Management-bigda hua\Library\obj\Debug\Library.dll
+D:\jayinee working\Libraray Management-bigda hua\Library\obj\Debug\Library.pdb

@@ -1,0 +1,12 @@
+﻿
+
+search: <input type="search" ng-model="query" class="glyphicon-search" />
+
+<hr />
+<div ng-repeat="book in vm.books |filter:query">
+    <br />
+    <h4>{{book.name}}</h4>
+    
+    <img ng-src="{{book.image}}" />
+</div>
+  
